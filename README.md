@@ -2,9 +2,6 @@
 
 My notebooks for Andrej Karpathy's [Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html) lecture series. I write each one alongside the lecture, building everything from scratch.
 
-```
-micrograd  →  makemore (bigram, MLP, BatchNorm, backprop, WaveNet)  →  GPT  →  tokenizer
-```
 
 | # | Lecture | Notebook | Exercises |
 |---|---------|----------|-----------|
